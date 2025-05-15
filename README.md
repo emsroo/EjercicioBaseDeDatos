@@ -28,3 +28,8 @@ Desde MySQL WorkBench importar la base de datos mysqlsampledatabase.sql
 ![images/image2.png](https://github.com/emsroo/EjercicioBaseDeDatos/blob/main/images/image2.png)
 
 Y se condulta asi SELECT * FROM mivista_ordenes;
+
+
+## 3. script .sql
+
+![alt text](image.png)
