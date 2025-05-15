@@ -32,4 +32,4 @@ Y se condulta asi SELECT * FROM mivista_ordenes;
 
 ## 3. script .sql
 
-![alt text](image.png)
+![image3](https://github.com/emsroo/EjercicioBaseDeDatos/blob/main/images/image3.png)
