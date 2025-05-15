@@ -25,6 +25,6 @@ Desde MySQL WorkBench importar la base de datos mysqlsampledatabase.sql
 
 ## 2. creacion de vista
 
-
+![images/image2.png](https://github.com/emsroo/EjercicioBaseDeDatos/blob/main/images/image2.png)
 
 Y se condulta asi SELECT * FROM mivista_ordenes;
