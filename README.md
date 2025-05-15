@@ -20,4 +20,4 @@ Desde MySQL WorkBench importar la base de datos mysqlsampledatabase.sql
 
 ---
 
-![Mi imagen] (images/image1.png)
+(![images/image1.png](https://github.com/emsroo/EjercicioBaseDeDatos/blob/main/images/image1.png))
