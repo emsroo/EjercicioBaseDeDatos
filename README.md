@@ -19,5 +19,12 @@ Desde MySQL WorkBench importar la base de datos mysqlsampledatabase.sql
 5. Subir todo al repositorio y mostrar la imagen del diagrama en este README.md
 
 ---
+## 1. diagrama de la base de datos (classicmodels)
+![images/image1.png](https://github.com/emsroo/EjercicioBaseDeDatos/blob/main/images/image1.png)
 
-(![images/image1.png](https://github.com/emsroo/EjercicioBaseDeDatos/blob/main/images/image1.png))
+
+## 2. creacion de vista
+
+
+
+Y se condulta asi SELECT * FROM mivista_ordenes;
